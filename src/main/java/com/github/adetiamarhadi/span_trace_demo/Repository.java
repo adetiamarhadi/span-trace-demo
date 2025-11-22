@@ -11,7 +11,6 @@ public class Repository {
 
     public void insert() {
         LOGGER.info("data successfully inserted");
-        return;
     }
 
     public String select() {
